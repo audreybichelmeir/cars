@@ -1,6 +1,8 @@
 # cars
 
 ###### This file provides a menu to which the user can
-- adds cars to a file
-- list the cars in the inventory file
-- and exit the program. 
+- ***Adds*** cars to a file
+- ***Displays** list the cars in the inventory file
+- ***Exit*** the program. 
+
+@michaelfahy thanks for a wonderful class!!!! <3 :)
